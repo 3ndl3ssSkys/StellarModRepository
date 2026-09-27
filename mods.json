@@ -1,5 +1,59 @@
 {
   "mods": [
-
+    {
+      "author": "GSQ12345",
+      "repo": "StellarDrive-FPS-shower-mod",
+      "metadata": "Mod"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "SDModKit",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveModManager",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveBuildPlus",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarUnlock",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveItemLines",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveElectrolyzer",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveUpgradeTable",
+      "metadata": "Mods"
+    },
+    {
+      "author": "3ndl3ssSkys",
+      "repo": "StellarDrive-DemoModList",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Liveplayer19",
+      "repo": "StellarDrive-StellarHorizons",
+      "metadata": "Mods"
+    },
+    {
+      "author": "3ndl3ssSkys",
+      "repo": "StellarDrive-DemoBuildPick",
+      "metadata": "Mods"
+    }
   ]
 }
