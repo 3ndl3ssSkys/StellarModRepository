@@ -1,6 +1,11 @@
 {
   "mods": [
     {
+      "author": "Max-H-0",
+      "repo": "StellarDrive-UnityExplorer",
+      "metadata": ""
+    },
+    {
       "author": "AlexsanderHam",
       "repo": "StellarDrive-PerformanceFix",
       "metadata": ""
